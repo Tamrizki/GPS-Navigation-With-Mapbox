@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MY GPS</string>
+<!--    todo 2 masukan access token Mapbox disini-->
+    <string name="map_box_access_token">pk.eyJ1IjoidGFtcml6a2kiLCJhIjoiY2tqemZ1Z2gzMDcybjJwcGVtZm9ia2UxdSJ9.oO0gv6m8GNhRgdUMXOsVEg</string>
+
+    <string name="info">info</string>
+    <string name="permissions_denied">Izin ditolak</string>
+    <string name="dismiss">dismiss</string>
+    <string name="change_style_maps">Tema maps</string>
+</resources>
